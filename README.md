@@ -41,6 +41,9 @@
 Margin competition
 > 인재를 채용할 때 최적의 사람을 뽑는 상한선 상향 전략보다 최악의 사람을 뽑지 않는 하한선 상향 전략이 있다. 후자는 표준화된 경험과 이력들을 검토한 다음 사소한 것들의 디테일을 얼마나 높였는가를 보고 평가하는 일종의 margin 경쟁이며 과거 제도 문화가 강한 동아시아 국가에서 쉽게 볼 수 있다. 두 전략의 장단점이 있음을 알고 채용 기준을 설정한다.
 
+Time preference
+> 상급자의 Time preference 수준은 그 하위에 있는 조직원들의 time preference의 극한값이 된다.
+
 ## Communication Principles
 
 문제 해결의 방식 차이를 파악한다
