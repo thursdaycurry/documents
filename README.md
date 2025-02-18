@@ -1,6 +1,6 @@
 # Purpose of the document
 
-이 문서는 세상에 대한 저의 원칙을 문자로 표현한 페이지입니다.
+이 문서는 Management & Business에 대한 저의 원칙을 글로 표현한 것입니다.
 
 
 ## Work Principles
