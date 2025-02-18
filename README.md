@@ -44,6 +44,9 @@ Margin competition
 Time preference
 > 상급자의 Time preference 수준은 그 하위에 있는 조직원들의 time preference의 극한값이 된다.
 
+Lunch time
+> 점심 시간 11:30은 생각보다 괜찮다.
+
 ## Communication Principles
 
 문제 해결의 방식 차이를 파악한다
