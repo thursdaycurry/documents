@@ -1,3 +1,8 @@
+# Purpose of the document
+
+이 문서는 세상에 대한 저의 원칙을 문자로 표현한 페이지입니다.
+
+
 ## Work Principles
 
 업무의 마감도(finishing)를 높인다
