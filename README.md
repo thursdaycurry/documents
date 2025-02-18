@@ -1,4 +1,4 @@
-# Purpose of the document
+## Purpose of the document
 
 이 문서는 Management & Business에 대한 저의 원칙을 글로 정리한 것입니다.
 
