@@ -58,4 +58,4 @@ Lunch time
 ## Engineering Principles
 
 Quality first
-> 많은 기능들을 대충 만드는 것 보다 잘 만든 기능을 다양한 방식으로 활용하는 것이 좋다.
+> 많은 기능들을 대충 만드는 것 보다 잘 만든 기능을 다양한 방식으로 활용하는 것이 효율적이다.
