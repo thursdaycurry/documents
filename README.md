@@ -47,6 +47,9 @@ Time preference
 Lunch time
 > 점심 시간 11:30은 생각보다 괜찮다.
 
+Diversity
+> 10명이 같은 생각을 가진 팀은 1명으로 대체 가능하다.
+
 ## Communication Principles
 
 문제 해결의 방식 차이를 파악한다
