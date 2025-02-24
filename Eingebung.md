@@ -1,0 +1,2 @@
+- ramenprofitable : https://www.paulgraham.com/ramenprofitable.html
+- same software for 20y : https://successfulsoftware.net/2025/02/21/20-years-working-on-the-same-software-product/
