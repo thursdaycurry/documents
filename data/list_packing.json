@@ -1,0 +1,51 @@
+{
+  "this": {
+    "version": "1",
+    "description": "This is meta data for preparing camping journey",
+    "type": "journey packing list",
+    "meta": {
+      "people": 2,
+      "period": "5days",
+      "temperature": "13-23C",
+      "humidity": "30%",
+      "location": "Jeju island, South Korea"
+    },
+
+    "data": {
+      "energy": [
+        {
+          "name": "pan",
+          "type": "3 in 1 camping cookware "
+        },
+        {
+          "name": "bottle",
+          "type": "Stanley 700ml vacuum bottle"
+        }
+      ],
+      "tool": [
+        {
+          "name": "tent",
+          "type": "2p"
+        },
+        {
+          "name": "headlight"
+        },
+        { "name": "camera" },
+        { "name": "camera-film", "qty": "2", "type": "Kentmere Pan 400 B&W" },
+        { "name": "multi-functional light" },
+        { "name": "multitool" }
+      ],
+      "hygiene": [
+        {
+          "name": "towel",
+          "qty": 1
+        }
+      ],
+      "information": [
+        {
+          "name": "regidence card"
+        }
+      ]
+    }
+  }
+}
